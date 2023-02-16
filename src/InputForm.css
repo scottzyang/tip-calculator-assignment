@@ -1,0 +1,22 @@
+form {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.bill-label {
+  margin-right: 50px;
+}
+
+.tip-label {
+  margin-right: 24px;
+}
