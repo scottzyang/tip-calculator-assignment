@@ -4,6 +4,10 @@ form {
   text-align: left;
 }
 
+h1 {
+  font-size: 4em;
+}
+
 .container {
   display: flex;
   flex-direction: column;
